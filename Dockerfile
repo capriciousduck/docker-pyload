@@ -1,5 +1,5 @@
-FROM ubuntu:bionic
-MAINTAINER Patrick Oberdorf "patrick@oberdorf.net"
+FROM i386/ubuntu:bionic
+MAINTAINER capriciousduck
 
 ENV DEBIAN_FRONTEND=noninteractive
 
